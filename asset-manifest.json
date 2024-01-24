@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/to-do-travel-app/static/css/main.cb23755d.css",
+    "main.js": "/to-do-travel-app/static/js/main.0985a7f5.js",
+    "index.html": "/to-do-travel-app/index.html",
+    "main.cb23755d.css.map": "/to-do-travel-app/static/css/main.cb23755d.css.map",
+    "main.0985a7f5.js.map": "/to-do-travel-app/static/js/main.0985a7f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb23755d.css",
+    "static/js/main.0985a7f5.js"
+  ]
+}
